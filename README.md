@@ -27,3 +27,5 @@ This project is not best in class,also can be the simplest one,maybe wrong one, 
 ### About the code
 The code may also help someone. It simulates [readers-writers problem](http://en.wikipedia.org/wiki/Readers-writers_problem). Writers are trying to write to a common buffer and readers are trying to read. Code might not be perfect but helps you to understand the issue.
 Unlike the common one, threads do some random encryption work during their cycle. So the code have some samples about AES encryption. Readers removes the data after done, so you may think the code is not an exact readers-writers problem but also like [producer-consumer problem](http://en.wikipedia.org/wiki/Producer-consumer_problem).
+
+Development enviroment: Visual Studio 2012, .NET 4.5, WIN7
