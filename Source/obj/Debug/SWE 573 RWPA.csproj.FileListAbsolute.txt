@@ -1,0 +1,6 @@
+C:\Users\CyBoRG\Documents\GitHub\development-practice\Source\bin\Debug\config.rwpa
+C:\Users\CyBoRG\Documents\GitHub\development-practice\Source\bin\Debug\SWE 573 RWPA.exe
+C:\Users\CyBoRG\Documents\GitHub\development-practice\Source\bin\Debug\SWE 573 RWPA.pdb
+C:\Users\CyBoRG\Documents\GitHub\development-practice\Source\obj\Debug\SWE 573 RWPA.csprojResolveAssemblyReference.cache
+C:\Users\CyBoRG\Documents\GitHub\development-practice\Source\obj\Debug\SWE 573 RWPA.exe
+C:\Users\CyBoRG\Documents\GitHub\development-practice\Source\obj\Debug\SWE 573 RWPA.pdb

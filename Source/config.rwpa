@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="readersNumber" value="5"/>
+    <add key="writersNumber" value="5"/>
+    <add key="delayN" value="50"/>
+    <add key="delayM" value="50"/>
+    <add key="demoLength" value="5"/>
+    <add key="byteCount" value="295"/>
+    <add key="recordCount" value="5"/>
+  </appSettings>
+</configuration>
