@@ -1,7 +1,7 @@
 development-practice
 ====================
 
-A basic project cycle, that simulates readers&amp;writers problem.
+A basic project cycle, that simulates readers&amp;writers problem with C#.
 
 ### What you must except from the project?
 The project presents a basic software cycle, which includes;
